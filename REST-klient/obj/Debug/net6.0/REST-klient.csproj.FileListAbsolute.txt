@@ -1,0 +1,17 @@
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\bin\Debug\net6.0\REST-klient.exe
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\bin\Debug\net6.0\REST-klient.deps.json
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\bin\Debug\net6.0\REST-klient.runtimeconfig.json
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\bin\Debug\net6.0\REST-klient.dll
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\bin\Debug\net6.0\REST-klient.pdb
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\bin\Debug\net6.0\RestSharp.dll
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.csproj.AssemblyReference.cache
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.AssemblyInfoInputs.cache
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.AssemblyInfo.cs
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.csproj.CoreCompileInputs.cache
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.csproj.CopyComplete
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.dll
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\refint\REST-klient.dll
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.pdb
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\REST-klient.genruntimeconfig.cache
+C:\Users\arosenius.carlander\Documents\REST-klient\REST-klient\REST-klient\obj\Debug\net6.0\ref\REST-klient.dll

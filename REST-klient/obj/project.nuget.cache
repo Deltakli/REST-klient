@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q+YdG5kMDxT5ScHKFWgiyN0Q6DCHG/yYfOPm8NeCaong8ZCqqiCO8nqccXfnAnr3yxmaS7Tny/eaM+BvFiRzzA==",
+  "dgSpecHash": "co/Wd1RAY8xMW0v2g9GYDwBFpOPpruGPlscH0X27+qYNKQNWIUJ7PuDpBz/c4RHusrE6Zk2xsQGKQG8aYSW6Hw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\arosenius.carlander\\Documents\\REST-klient\\REST-klient\\REST-klient\\REST-klient.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\arosenius.carlander\\Documents\\REST-klient\\REST-klient\\REST-klient\\REST-klient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arosenius.carlander\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
